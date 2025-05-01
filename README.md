@@ -30,11 +30,32 @@ Creating this to setup a public repository and public code.
 
 Will implement this in stages working to get a minimum working product out first and then iterate and enhance the experience.
 
-#### First Phase Single Page
+#### First Phase: Basic Site
 
 Work on getting a single page resume sight with an intro section, brief experience, project, and about me.
+Will also handle publishing this live for users to visit.
 
-#### Second Phase Multi Navigation
+#### Second Phase: Application
 
 Work on breaking apart the sections into different pages. Also bring in another new page of technology.
-In this phase should also extend out the functionality of the site adding in modals, animations and extra styling flair
+Going to extend out the functionality of the site adding in modals, animations, and extra styling flair.
+From a technology aspect will bring in a cicd pipeline with linting and tests.
+
+#### Third Phase: Infrastructure Stability
+
+Move the application from a basic publishing site to deploying and operating on AWS. 
+
+
+### Technical
+
+#### Frontend
+
+Typical modern frontend application
+- React.js
+- Next.js
+- TailwindCss
+
+Supporting
+- Eslint
+- Cypress
+- React Testing Library
