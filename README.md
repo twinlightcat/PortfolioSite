@@ -19,7 +19,7 @@ Table of Contents
 ### Objective
 
 Create a site that showcases my experience, knowledge and skills. 
-The portfolio site then itself becomes an item that can be looked at and inspected itelf in this repo.
+The portfolio site then itself becomes an item that can be looked at and inspected.
 
 ### Background
 
