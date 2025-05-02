@@ -4,9 +4,8 @@ Exciting site with demos, projects, experience coming soon.
 This will be updated on a weekly basis until complete so comeback to see updates.
 
 ## Action Items
-- [ ] Create mockups
-- [ ] Setup application framework and base
-- [ ] Setup a GitHub project issue tracker for this
+Progress is tracked in a GitHub Project  
+[GitHub Project]([https://github.com/users/twinlightcat/projects/3/views/1](https://github.com/users/twinlightcat/projects/3/views/3?groupedBy%5BcolumnId%5D=189005342))
 
 ## Plan for site
 
